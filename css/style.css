@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+
+@media(min-width:960px){
+#movies img,#movie img{
+    width: 100%;
+}
+
+.movies .col-md-3 .card{
+    height: 400px;
+}
+
+.movies .col-md-3 img{
+    height: 240px;
+    
+}
+}
+
+.card-body h5{
+    color:white;
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.list-group{
+    color:white;
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    font-size: 14px;
+    font-weight: bold;
+}
+.list-group{
+    margin-left: 40px;
+}
+.main_title{
+    color:white !important;
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 30px;
+}
+.poster{
+    border-radius:40px;
+    border:3px solid 	#B22222;
+    box-shadow: 10px 10px grey;
+}
+
+.primary-title{
+    color:white !important;
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+  
+}
+
+.plot{
+    color:white !important;
+    font-family: 'Noto Serif', serif;
+    padding: 30px;
+    font-size: 18px;
+
+
+}
